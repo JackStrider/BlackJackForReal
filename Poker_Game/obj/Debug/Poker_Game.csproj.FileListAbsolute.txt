@@ -8,3 +8,8 @@ C:\workspace\Poker_Game\Poker_Game\obj\Debug\MainWindow.g.cs
 C:\workspace\Poker_Game\Poker_Game\obj\Debug\App.g.cs
 C:\workspace\Poker_Game\Poker_Game\obj\Debug\Poker_Game_MarkupCompile.cache
 C:\workspace\Poker_Game\Poker_Game\obj\Debug\Poker_Game_MarkupCompile.lref
+C:\workspace\BlackJackForReal\Poker_Game\obj\Debug\Poker_Game.csprojResolveAssemblyReference.cache
+C:\workspace\BlackJackForReal\Poker_Game\obj\Debug\MainWindow.g.cs
+C:\workspace\BlackJackForReal\Poker_Game\obj\Debug\App.g.cs
+C:\workspace\BlackJackForReal\Poker_Game\obj\Debug\Poker_Game_MarkupCompile.cache
+C:\workspace\BlackJackForReal\Poker_Game\obj\Debug\Poker_Game_MarkupCompile.lref
