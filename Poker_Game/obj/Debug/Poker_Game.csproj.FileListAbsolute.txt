@@ -1,0 +1,10 @@
+C:\Users\william.rossi\source\repos\Poker_Game\Poker_Game\obj\Debug\Poker_Game.csprojResolveAssemblyReference.cache
+C:\Users\william.rossi\source\repos\Poker_Game\Poker_Game\obj\Debug\MainWindow.g.cs
+C:\Users\william.rossi\source\repos\Poker_Game\Poker_Game\obj\Debug\App.g.cs
+C:\Users\william.rossi\source\repos\Poker_Game\Poker_Game\obj\Debug\Poker_Game_MarkupCompile.cache
+C:\Users\william.rossi\source\repos\Poker_Game\Poker_Game\obj\Debug\Poker_Game_MarkupCompile.lref
+C:\workspace\Poker_Game\Poker_Game\obj\Debug\Poker_Game.csprojResolveAssemblyReference.cache
+C:\workspace\Poker_Game\Poker_Game\obj\Debug\MainWindow.g.cs
+C:\workspace\Poker_Game\Poker_Game\obj\Debug\App.g.cs
+C:\workspace\Poker_Game\Poker_Game\obj\Debug\Poker_Game_MarkupCompile.cache
+C:\workspace\Poker_Game\Poker_Game\obj\Debug\Poker_Game_MarkupCompile.lref
